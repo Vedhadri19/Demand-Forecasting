@@ -4,7 +4,8 @@ A time series forecasting project that uses historical sales data to analyze dem
 # Tools Used
 Python, Pandas, NumPy, Matplotlib, Statsmodels, Prophet
 
-# Process
+### Process
+
 -Explored and cleaned the sales data
 -Handled missing values and converted dates
 -Aggregated sales data on a weekly basis
