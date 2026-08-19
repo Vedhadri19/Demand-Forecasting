@@ -11,7 +11,7 @@ Python, Pandas, NumPy, Matplotlib, Statsmodels, Prophet
 * Aggregated sales data on a weekly basis
 * Analyzed demand trends over time
 * Built and compared three forecasting models:
-  ** Holt-Winters
-  ** Exponential Smoothing
-  ** Prophet
+  * Holt-Winters
+  * Exponential Smoothing
+  * Prophet
 * Compared the forecasts to understand model performance
